@@ -10,7 +10,7 @@
         "type": "tarball",
         "url": "https://github.com/NixOS/nixpkgs/archive/51acb65b302551ac7993b437cc6863fe9fa8ae50.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
-    }
+    },
     "nixpkgs-fmt": {
         "branch": "master",
         "description": "Nix code formatter for nixpkgs [maintainer=@zimbatm]",
