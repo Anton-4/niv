@@ -1,16 +1,16 @@
 {
     "nixpkgs": {
-        "branch": "master",
+        "branch": "nixpkgs-unstable",
         "description": "Nix Packages collection",
-        "homepage": null,
+        "homepage": "",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "491a0bbc69c053c2a4fca69be7960ec8ffab56a4",
-        "sha256": "0agd8xhm5ddww9m4v7lbp782zn0fi5rw2f3z1rlw89lph307vxlz",
+        "rev": "51acb65b302551ac7993b437cc6863fe9fa8ae50",
+        "sha256": "0si8s2ji4prp614q3050x4sp282wxgp0mm5q50slcf5f75jw5yhh",
         "type": "tarball",
-        "url": "https://github.com/NixOS/nixpkgs/archive/491a0bbc69c053c2a4fca69be7960ec8ffab56a4.tar.gz",
+        "url": "https://github.com/NixOS/nixpkgs/archive/51acb65b302551ac7993b437cc6863fe9fa8ae50.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
-    },
+    }
     "nixpkgs-fmt": {
         "branch": "master",
         "description": "Nix code formatter for nixpkgs [maintainer=@zimbatm]",
